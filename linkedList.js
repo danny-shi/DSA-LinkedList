@@ -5,3 +5,9 @@ class _Node {
     this.next = next;
   }
 }
+
+// OPERATIONS IN A LINKED LIST 
+class LinkedList {
+    constructor() {
+        this.head = null;
+    }
